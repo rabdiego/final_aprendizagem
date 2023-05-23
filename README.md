@@ -23,7 +23,7 @@ O projeto segue os seguintes passos:
 
   6. Predição de novas imagens: O modelo final é aplicado para realizar previsões em novas imagens, atribuindo-lhes uma classificação de qualidade (boa qualidade ou baixa qualidade) com base em suas características.
 
-## Uso
+## Datasets de Apoio
 
 ## Requisitos
 
